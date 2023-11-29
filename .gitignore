@@ -1,0 +1,5 @@
+flamegraph.svg
+perf.data
+target/
+.vscode/
+Cargo.lock
